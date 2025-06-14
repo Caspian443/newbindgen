@@ -1,6 +1,6 @@
-# Rust Bindgen 工具分析
+# Bindgen 工具分析
 
-这个仓库包含了关于Rust Bindgen工具的分析文档，主要介绍了Bindgen的工作原理、实现细节以及与其他工具（如cbindgen）的对比。
+这个仓库包含了关于Bindgen工具的分析文档，主要介绍了Bindgen的工作原理、实现细节以及与其他工具（如cbindgen）的对比。
 
 ## 目录结构
 
